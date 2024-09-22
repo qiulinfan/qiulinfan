@@ -17,3 +17,5 @@ My Steam friend code: 1225959195
 Find me on Instagram: [Rynne_Fan](https://www.instagram.com/rynnefan/)
 
 My personal page: //TODO😥
+
+<img src="./Assets/IMG_1523.jpg" width="120" />
