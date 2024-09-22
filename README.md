@@ -1,5 +1,5 @@
 Hi there 😎  
-This is QL from Shanghai, currently doing my Math&&Cs UG in Michigan till 2026. 👀 
+This is QL from Shanghai, currently doing my Math&&Cs UG in Michigan till 2026. 👀   
 Interested in Fourier Analysis && Differential Geometry(Currently Learning it from baaaasics) && Machine Learning Systems & Reinforcement Learning 🤓  
 && Animations && Jazz-Hiphop music && RPG games && Everything interesting in the whole world 🌎   
 
