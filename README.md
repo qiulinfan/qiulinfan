@@ -5,8 +5,8 @@ Interested in Fourier Analysis && Differential Geometry && Machine Learning Syst
 
 Here are some pics of me and my friends.   
 
-<img src="./Assets/wizWLCY.jpg" width="300" style="zoom:50%;" /> <img src="./Assets/wizWYH.JPG" width="220" style="zoom:50%;" />  
-<img src="./Assets/wizCX.jpg" width="230" style="zoom:50%;" /> <img src="./Assets/sisu.jpeg" width="280" style="zoom:50%;" />
+<img src="./Assets/wizWLCY.jpg" width="200" style="zoom:50%;" /> <img src="./Assets/wizWYH.JPG" width="145" style="zoom:50%;" />  
+<img src="./Assets/wizCX.jpg" width="152" style="zoom:50%;" /> <img src="./Assets/sisu.jpeg" width="184" style="zoom:50%;" />
 
 Send me email: rynnefan@umich.edu 
 
@@ -18,4 +18,4 @@ Find me on Instagram: [Rynne_Fan](https://www.instagram.com/rynnefan/)
 
 My personal page: //TODO😥
 
-<img src="./Assets/IMG_1523.JPG" width="120" style="zoom:67%;" />
+<img src="./Assets/IMG_1523.JPG" width="100" style="zoom:67%;" />
