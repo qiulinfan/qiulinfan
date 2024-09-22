@@ -18,4 +18,4 @@ Find me on Instagram: [Rynne_Fan](https://www.instagram.com/rynnefan/)
 
 My personal page: //TODO😥
 
-<img src="./Assets/IMG_1523.jpg" width="120" />
+<img src="./Assets/IMG_1523.JPG" width="120" />
