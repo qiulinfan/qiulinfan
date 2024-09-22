@@ -1,7 +1,7 @@
 Hi there 😎  
-This is QL from Shanghai, currently doing my Math&&Cs UG in Michigan. 👀  
-Interested in Fourier Analysis && Differential Geometry && Machine Learning Systems & Reinforcement Learning 🤓  
-&& Animations && Jazz-Hiphop music && RPG games && Everything interesting in the whole world 🌎    
+This is QL from Shanghai, currently doing my Math&&Cs UG in Michigan till 2026. 👀 
+Interested in Fourier Analysis && Differential Geometry(Currently Learning it from baaaasics) && Machine Learning Systems & Reinforcement Learning 🤓  
+&& Animations && Jazz-Hiphop music && RPG games && Everything interesting in the whole world 🌎   
 
 Here are some pics of me and my friends.   
 
