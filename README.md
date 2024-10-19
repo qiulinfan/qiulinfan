@@ -8,11 +8,11 @@ Here are some pics of me and my friends.
 
 Send me email: rynnefan@umich.edu 
 
-Find me on Discord: RYNNE
+Find me on Discord: RYN
 
 My Steam friend code: 1225959195
 
-Find me on Instagram: [Rynne_Fan](https://www.instagram.com/rynnefan/)
+Find me on Instagram: [Ryn_Fan](https://www.instagram.com/saddysamoyed)
 
 My personal page: //TODO😥
 
