@@ -1,5 +1,6 @@
 Hi there 😎  
 This is QL from Shanghai, currently doing my Math&&Cs UG in Michigan till 2025. 👀   
+I am majorly interested in Analysis & Geometry, also doing coding for fun. 
 
 Here are some pics of me and my friends.   
 
