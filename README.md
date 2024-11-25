@@ -8,9 +8,13 @@ Here are some pics of me and my friends.
 <img src="./Assets/wizCX.jpg" width="152" style="zoom:50%;" /> <img src="./Assets/sisu.jpeg" width="184" style="zoom:50%;" />
 
 Send me email: rynnefan@umich.edu 
-Find me on Discord: saddysamoyed
+
+Find me on Discord by username: saddysamoyed
+
 My Steam friend code: 1225959195
+
 Find me on Instagram: [Ryn_Fan](https://www.instagram.com/saddysamoyed)
+
 My personal website: //TODO😥
 
 <img src="./Assets/IMG_1523.JPG" width="100" style="zoom:67%;" />
