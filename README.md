@@ -1,3 +1,23 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,pytorch,latex,lua,go,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,windows,cmake,dotnet,docker,postgres" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,emacs,visualstudio,obsidian,unity,unreal,blender" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiulinfan&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
 Find me on Discord: bluesamoyed777
 
 My Wechat id: iatkoa
