@@ -1,31 +1,22 @@
+Welcome to: [qiulinfan.github,io](https://qiulinfan.github.io/)
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,pytorch,latex,lua,go,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,rust,cs,py,pytorch,latex,lua,js,ts" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,ubuntu,windows,cmake,dotnet,docker,postgres" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,emacs,visualstudio,obsidian,unity,unreal,blender" />
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,vscode,neovim,obsidian,unity,unreal,blender,dotnet,docker,postgres" />
   </a>
 </p>
 
-Find me on **Discord**: bluesamoyed777
 
-My **Steam** friend code: 1225959195
-
-Check my portfolio: [Click here!](https://qiulinfan.github.io/)
-
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
       +**++===-----=++++=----:::::::::::::::::::::::::::::::::::::::::::::::::::::---------***********************      
       +++++=+-:::-===-----:-:::::::::::::::::::::::::::::::::::::::::::::::::::::------------*********************      
       ++++==-------==------::::::::::::::::::::::::::::::::::::::::::::::::::--------------:---*******************      
@@ -63,9 +54,10 @@ Check my portfolio: [Click here!](https://qiulinfan.github.io/)
       *******************************************:..=*+:....++......:---:----==++++++++++=++++++++++:.=++++++=:...      
       ******************************************+:.=**+:..:+*=...::-=+==+==++++++++++++++++++++++=+++=:-+++++++++=      
       ******************************************-.=***=...+**--=++++++++++++++++++++++=+++++++++++++=+++-+++++++++      
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
-                                                                                                                        
+
+
+​                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
+​                                                                                                                        
